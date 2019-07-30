@@ -1,11 +1,11 @@
 # Site settings
 author: Nicole Dow
-title: 
+title: C'est le Code
 header-img: img/home-bg.png
 email: nikki.dow71@gmail.com
 copyright_name: Nicole Dow
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A former French teacher's journey in learning to code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  nicoledow
