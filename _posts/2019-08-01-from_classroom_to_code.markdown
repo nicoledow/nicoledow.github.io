@@ -1,14 +1,10 @@
 ---
 layout: post
-title:      "From Classroom to Code"
-date:       2019-08-01 14:13:21 +0000
+title:      "From Classroom to Code - Why I'm Switching Careers"
+date:       2019-08-01 10:13:22 -0400
 permalink:  from_classroom_to_code
 ---
 
-
-Entry #1 August 1st 2019
-
-From Classroom to Code - Why I’m Switching Careers
 
 	Five years ago, I declared a major in French Language at Rutgers University. I didn’t know what I wanted to do after graduation, but I knew I loved the French language and culture more than anything else I had studied.
 	
