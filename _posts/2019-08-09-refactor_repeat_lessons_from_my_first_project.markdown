@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Refactor, Repeat: Lessons From My First Project"
-date:       2019-08-10 01:37:36 +0000
+date:       2019-08-09 21:37:37 -0400
 permalink:  refactor_repeat_lessons_from_my_first_project
 ---
 
@@ -23,7 +23,10 @@ Being a stubborn person, I often want to figure things out for myself. However, 
 ## Lesson 3: You're never done refactoring.
 By Thursday, I had code that provided the functionality I wanted and considered myself more or less done coding. I set up a meeting with my technical coach (thanks Morgan!) and got some suggestions on how the code could be cleaner. I sat down on Friday morning thinking I would spend an hour refactoring and be done with it.
 
-Once I started refactoring, it was like falling down a rabbit hole. With every improvement I made to my code, I found another aspect to change. I spent nearly four hours on this part, and in the end I came away with a similar but much better interface and *much* DRY-er code. 
+Once I started refactoring, it was like falling down a rabbit hole. With every improvement I made to my code, I found another aspect to change. My biggest focus here was adding abstraction. I realized that my "run" method, in particular, contained a lot of logic and chained 'if' statements. Talking with my coach made me realize my code would be much easier to understand if I packed each response to an if statement into its own separate method.
+
+I spent nearly four hours on this part, and in the end I came away with a similar but much better interface and *much* more readable code.
+
 
 All in all, I would consider my first project week a success. I am more than ready to take a day off and let my brain vegetate with some Netflix, then get back to the grind on Monday!
 
